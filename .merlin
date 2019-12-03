@@ -1,0 +1,24 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open EpicsGraphql
+FLG -ppx /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/@baransu/graphql_ppx_re/ppx6
+FLG -ppx '/Users/prisc_000/Downloads/nicksenger-appsync/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/bs-platform/lib/ocaml
+B /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/reason-react/lib/ocaml
+B /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/reason-react/lib/ocaml
+S /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/wonka/lib/ocaml
+B /Users/prisc_000/Downloads/nicksenger-appsync/node_modules/wonka/lib/ocaml
+S src
+B lib/bs/src
+S src/aws
+B lib/bs/src/aws
+S src/hooks
+B lib/bs/src/hooks
+S src/graphql
+B lib/bs/src/graphql
+S src/components
+B lib/bs/src/components
+####BSB GENERATED: NO EDIT}

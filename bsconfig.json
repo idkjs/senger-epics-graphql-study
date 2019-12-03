@@ -1,0 +1,38 @@
+{
+  "name": "epics-graphql",
+  "reason": {
+    "react-jsx": 3
+  },
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "bsc-flags": [
+    "-bs-super-errors",
+    "-bs-no-version-header"
+  ],
+  "package-specs": [
+    {
+      "module": "commonjs",
+      "in-source": true
+    }
+  ],
+  "suffix": ".bs.js",
+  "namespace": true,
+  "bs-dependencies": [
+    "reason-react",
+    "wonka"
+  ],
+  "ppx-flags": [
+    "@baransu/graphql_ppx_re/ppx6"
+  ],
+  "gentypeconfig": {
+    "language": "flow",
+    "shims": {},
+    "debug": {
+      "all": false,
+      "basic": false
+    }
+  },
+  "refmt": 3
+}
