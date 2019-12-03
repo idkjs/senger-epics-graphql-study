@@ -24,3 +24,5 @@ yarn-error.log*
 src/aws-exports.js
 lib/bs
 .bsb.lock
+.merlin
+.merlin
