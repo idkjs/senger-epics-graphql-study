@@ -6,7 +6,11 @@
     "appsync",
     "aws",
     "pubsub",
-    "graphql"
+    "graphql",
+    "wonka",
+    "epics",
+    "observables",
+    "combined-epics"
   ],
   "dependencies": {
     "@aws-amplify/api": "2.1.0",

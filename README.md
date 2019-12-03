@@ -1,1 +1,1 @@
-# appsync-realtime-demo <https://aws.amazon.com/blogs/mobile/appsync-realtime/>
+# Trying to implement appsync-realtime-demo <https://aws.amazon.com/blogs/mobile/appsync-realtime/> using reason wonka epics as demonstrated by @nicksenger in [senger-io](https://github.com/nicksenger/senger-io)
